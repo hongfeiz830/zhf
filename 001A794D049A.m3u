@@ -22,10 +22,6 @@ http://germanytv.net:8080/play/live.php?mac=00:1A:79:4D:04:9A&stream=566298&exte
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://germanytv.net:8080/play/live.php?mac=00:1A:79:4D:04:9A&stream=566297&extension=ts
-EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Q" group-title="XXX ❤️ ADULTS 2",XXX: PENTHOUSE Q
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://germanytv.net:8080/play/live.php?mac=00:1A:79:4D:04:9A&stream=566266&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PORNMIX" group-title="XXX ❤️ ADULTS 2",XXX: PORNMIX
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -419,3 +415,4 @@ http://germanytv.net:8080/play/live.php?mac=00:1A:79:4D:04:9A&stream=566239&exte
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 
 http://germanytv.net:8080/play/live.php?mac=00:1A:79:4D:04:9A&stream=566238&extension=ts
+
